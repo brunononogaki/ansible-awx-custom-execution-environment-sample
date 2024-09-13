@@ -1,0 +1,4 @@
+openssh-clients  [platform:rpm]
+sshpass   [platform:rpm]
+git  [platform:rpm]
+dnf [platform:rpm]
